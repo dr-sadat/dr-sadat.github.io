@@ -8,13 +8,13 @@ Bradley University, IL 61614, USA
 ### Fall 2023
 
 #### CS 321 - Operating Systems
-Syllabus: 
-Overview of the course:
+Syllabus: \
+Overview of the course:\
 Hard Skills Learned: 
 
 #### CS 472/572 - Distributed Databases and Big Data
-Syllabus: 
-Overview of the course:
+Syllabus: \
+Overview of the course:\
 Hard Skills Learned: 
 
 
