@@ -4,10 +4,21 @@ Department of Computer Science & Information Systems \
 Bradley University, IL 61614, USA
 
 ## Teaching
-CS 102 - Data Structures\
-CS 321 - Operating Systems \
-CS 330 - Net-Centric Computing\
-CS 472/572 - Distributed Databases and Big Data\
-CIS 495/595 - Software and Web Applications Security\
 
-## Research 
+### Fall 2023
+
+#### CS 321 - Operating Systems
+Syllabus: 
+Overview of the course:
+Hard Skills Learned: 
+
+#### CS 472/572 - Distributed Databases and Big Data
+Syllabus: 
+Overview of the course:
+Hard Skills Learned: 
+
+
+
+### Spring 2024
+CS 330 - Net-Centric Computing\
+CIS 495/595 - Software and Web Applications Security
