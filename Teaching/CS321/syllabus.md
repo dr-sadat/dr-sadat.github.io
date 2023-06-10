@@ -2,7 +2,7 @@
 
 [Home](./README.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md)
 
-Please check Canvas for the full syllabus for your particular term. A general overview of the important parts are outlined below. 
+Please check Canvas for the full syllabus for the specific class/section you registered for. A general overview of the important parts are outlined below. 
 
 
 
