@@ -30,16 +30,16 @@ Make sure to select the correct *class section* when you subscribe. A subscripti
 
 ## Grading
 
-Grade Components:
+### Grade Components
 
 | Attendance | Participation Activities | Homework  |  Quizzes |  Midterm Exam |  Final Exam  |
 | ---   | ---  | --- | --- | --- | --- |
 | 5% | 5% | 25% | 20% | 20% | 25% |
 
 
-*Make-up policy:* There will be NO make-up tests without a valid and documented reason. Unexcused absence for quiz, midterm, or the final exam will result in a grade of zero.  
+**Make-up policy:** There will be NO make-up tests without a valid and documented reason. Unexcused absence for quiz, midterm, or the final exam will result in a grade of zero.  
  
-*Late submission policy:* Late assignment submissions will be penalized at the rate of 10% (of total points) per day.
+**Late submission policy:** Late assignment submissions will be penalized at the rate of 10% (of total points) per day.
 
 
 ## Topics
