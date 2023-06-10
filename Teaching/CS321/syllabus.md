@@ -19,7 +19,7 @@ We will use a zyBook, which offers highly interactive content, animations, activ
 Make sure to select the correct *class section* when you subscribe. A subscription is $58. Students may begin subscribing on Aug 07, 2023 and the cutoff to subscribe is Nov 29, 2023. Subscriptions will last until Dec 27, 2023. However, students can print and save (PDF) their zyBook for future reference. 
 
 
-## Grading (subject to change)
+## Grade Components
 
  - Attendance: 5%
  - Participation Activities: 5%
