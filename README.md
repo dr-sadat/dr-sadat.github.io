@@ -12,8 +12,7 @@ Fall '23 office hours: M W, 10:30 - 12:00
 ## Teaching
 
 #### Fall 2023
-- [CS 321 - Operating Systems] (https://github.com/dr-sadat/dr-sadat.github.io/blob/main/CS321.md)
-- <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+- <a href="https://github.com/dr-sadat/dr-sadat.github.io/blob/main/CS321.md" target="_blank">CS 321 - Operating Systems</a> ()
 - CS 472/572 - Distributed Databases and Big Data 
 
 #### Spring 2024
