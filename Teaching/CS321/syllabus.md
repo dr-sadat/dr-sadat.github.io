@@ -21,9 +21,16 @@ Make sure to select the correct *class section* when you subscribe. A subscripti
 
 ## Grading (subject to change)
 
- - Quizzes and Exams: 50%
- - Labs: 50%
- - Late Homework Policy: 10% penalty per business day.
+ - Attendance: 5%
+ - Participation Activities: 5%
+ - Homework: 25%
+ - Quizzes: 20%
+ - Midterm Exam: 20%
+ - Final Exam: 25%
+ 
+*Make-up policy:* There will be NO make-up tests without a valid and documented reason. Unexcused absence for quiz, midterm, or the final exam will result in a grade of zero.  
+ 
+*Late submission policy:* Late assignment submissions will be penalized at the rate of 10% (of total points) per day.
 
 
 ## Topics
