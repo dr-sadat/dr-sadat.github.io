@@ -1,24 +1,22 @@
-# Syllabus: CSE 484
+# Syllabus: CS 321
 
-[Home](./index.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md) &nbsp;&nbsp;&nbsp; [Schedule](./schedule.md)
+[Home](./README.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md)
 
-## Learning Objectives
+Please check Canvas for the full syllabus for your particular term. A general overview of the important parts are outlined below. 
 
-In this course, students will study a variety of attacks on computer software and hardware. These attacks are caused by the vulnerabilities in the design and implementation of computer systems. The course emphasizes "learning by doing", and requires students to conduct a series of lab exercises. Through these labs, students can enhance their understanding of the principles, and be able to apply those principles to solve real problems. After completion of the course, students should be able to possess the following skills:
-
- - be able to analyze and evaluate software systems for its security properties,
- - be able to evaluate risks faced by computer systems,
- - be able to explain how various attacks work,
- - be able to detect common vulnerabilities in software,
- - be able to design and implement basic security mechanisms to protect computer systems,
- - be able to describe and generalize various software vulnerabilities,
- - be able to compare various security mechanisms, and articulate their advantages and limitations,
- - be able to apply security principles to solve problems.
 
 
 ## Required Textbook
 
-Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](https://www.handsonsecurity.net/).
+We will use a zyBook, which offers highly interactive content, animations, activities, challenge questions, and videos. Here are the instructions to access the book:
+
+    \item Sign in or create an account at \href{https://learn.zybooks.com/library}{learn.zybooks.com}
+    
+    \item Enter zyBook code:  **BRADLEYCS321SadatFall2023**
+    
+    \item Subscribe
+
+Make sure to select the correct *class section* when you subscribe. A subscription is $58. Students may begin subscribing on Aug 07, 2023 and the cutoff to subscribe is Nov 29, 2023. Subscriptions will last until Dec 27, 2023. However, students can print and save (PDF) their zyBook for future reference. 
 
 
 ## Grading (subject to change)
