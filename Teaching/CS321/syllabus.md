@@ -37,51 +37,11 @@ Make sure to select the correct *class section* when you subscribe. A subscripti
 | 5% | 5% | 25% | 20% | 20% | 25% |
 
 
+<br>
+
 **Make-up policy:** There will be NO make-up tests without a valid and documented reason. Unexcused absence for quiz, midterm, or the final exam will result in a grade of zero.  
  
 **Late submission policy:** Late assignment submissions will be penalized at the rate of 10% (of total points) per day.
 
-<br>
-
-## Topics
- - Introduction and Basics
-   - Class Introduction (syllabus, policies, and projects)
-   - An Overview of Computer Security
-   - Course projects (labs)
-
- - Web Security 
-   - Web security basics
-   - Cross-Site Scripting Attack
-   - Cross-Site Request Forgery Attack
-   - SQL-Injection Attack
-   - Click-Jacking Attack
-
- - Software/Hardware Security 
-   - Unix Security Basics
-   - Privileged programs (Set-UID programs) and vulnerabilities
-   - Buffer Overflow vulnerability and attack
-   - Race Condition vulnerability and attack
-   - Meltdown and Spectre attack (hardware vulnerability)
-
- - Internet Security 
-   - Network Security basics
-   - Attacks at the TCP/IP protocols
-   - DNS and attacks 
-   - BGP routing and attacks
-
- - Blockchain, Cryptocurrency, and Smart Contract 
-   - Cryptography foundation: a brief tutorial
-   - Bitcoin 
-   - Ethereum 
-   - Smart contract, vulnerabilities, and attacks
-
-
-## Data collection statement
-
-As part of the regular ABET accreditation process for the undergraduate
-programs in computer and electrical engineering, we will be collecting samples
-of students' work in each of our undergraduate classes.  As a result, some of
-your labs/homeworks/exams may be photocopied/scanned and saved to present to
-the ABET evaluators who visit next fall.
 
 
