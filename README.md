@@ -1,12 +1,12 @@
 # Dr. Mohammad N. Sadat
-Assistant Professor\
-Department of Computer Science & Information Systems \
-Bradley University \
-Peoria, IL 61625, USA
+Assistant Professor  
+Department of Computer Science & Information Systems  
+Bradley University  
+Peoria, IL 61625, USA  
 
-> Email: msadat@bradley.edu \
-> Office: Bradley Hall 289 \
-> Fall '23 office hours: M W, 10:30 - 12:00 
+> Email: msadat@bradley.edu  
+> Office: Bradley Hall 289  
+> Fall '23 office hours: M W, 10:30 - 12:00   
 
 
 ## Teaching
