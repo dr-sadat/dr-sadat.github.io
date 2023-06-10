@@ -15,3 +15,6 @@ Students will work on programming projects (C based) and get hands-on experience
 - Or make an appointment (Email: msadat@bradley.edu)
 
 
+## Good to Know
+- Although not required, some experience with the Linux OS will be useful. The virtual machine used in this class is based on Ubuntu 16.04. 
+- The programming projects are based on C. Proficiency in C is not required, but basic knowledge in C is or a similar programming language is essential. 
