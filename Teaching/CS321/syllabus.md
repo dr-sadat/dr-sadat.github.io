@@ -10,7 +10,7 @@ Please check Canvas for the full syllabus for your particular term. A general ov
 
 We will use a zyBook, which offers highly interactive content, animations, activities, challenge questions, and videos. Here are the instructions to access the book:
 
-- Sign in or create an account at [https://learn.zybooks.com](learn.zybooks.com)
+- Sign in or create an account at [https://learn.zybooks.com](https://learn.zybooks.com)
     
 - Enter zyBook code:  **BRADLEYCS321SadatFall2023**
     
