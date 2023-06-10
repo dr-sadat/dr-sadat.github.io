@@ -16,7 +16,7 @@ Fall '23 office hours: M W, 10:30 - 12:00
 href="https://github.com/dr-sadat/dr-sadat.github.io/blob/main/CS321.md" 
 target="_blank">CS 321 - Operating Systems</a> 
 - <a 
-href="https://github.com/dr-sadat/dr-sadat.github.io/blob/main/CS472-572.md" 
+href="https://github.com/dr-sadat/dr-sadat.github.io/blob/main/index_sample.html" 
 target="_blank">CS 472/572 - Distributed Databases and Big Data</a> 
 
 
