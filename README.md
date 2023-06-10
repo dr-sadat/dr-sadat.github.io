@@ -12,8 +12,8 @@ Fall '23 office hours: M W, 10:30 - 12:00
 ## Teaching
 
 #### Fall 2023
-- CS 321 - Operating Systems
-- CS 472/572 - Distributed Databases and Big Data
+- [CS 321 - Operating Systems] (https://github.com/dr-sadat/dr-sadat.github.io/blob/main/CS321.md)
+- CS 472/572 - Distributed Databases and Big Data 
 
 #### Spring 2024
 - CS 330 - Net-Centric Computing
