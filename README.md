@@ -12,24 +12,21 @@ Fall '23 office hours: M W, 10:30 - 12:00
 ## Teaching
 
 #### Fall 2023
-- <a 
-[CS 321 - Operating Systems](./Teaching/CS321/)
-- <a 
-href="https://github.com/dr-sadat/dr-sadat.github.io/blob/main/CS472-572.md" 
-target="_blank">CS 472/572 - Distributed Databases and Big Data</a> 
+- [CS 321 - Operating Systems](./Teaching/CS321/)
+- [CS 472/572 - Distributed Databases and Big Data](./Teaching/CS472-572/) 
 
 
 #### Spring 2024
-- CS 330 - Net-Centric Computing
-- CIS 495/595 - Software and Web Applications Security
+- [CS 330 - Net-Centric Computing](./Teaching/CS330/) 
+- [CIS 495/595 - Software and Web Applications Security](./Teaching/CIS495-595/) 
 
 ## Research 
 
 ### Current Projects 
 
-- Accurate QoE Models for Emerging Video Applications
-- Information-Driven Video Analytics
-- Cooperative Perception for Autonomous Vehicles 
+- Accurate QoE Models for Emerging Video Applications [*(details)*](./Research)
+- Information-Driven Video Analytics [*(details)*](./Research)
+- Cooperative Perception for Autonomous Vehicles [*(details)*](./Research)
 
-##### Info for Prospective Students
+##### [Info for Prospective Students](./Research/student-research.md)
 
