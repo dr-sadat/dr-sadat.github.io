@@ -10,11 +10,11 @@ Please check Canvas for the full syllabus for your particular term. A general ov
 
 We will use a zyBook, which offers highly interactive content, animations, activities, challenge questions, and videos. Here are the instructions to access the book:
 
-    \item Sign in or create an account at \href{https://learn.zybooks.com/library}{learn.zybooks.com}
+- Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com/library)
     
-    \item Enter zyBook code:  **BRADLEYCS321SadatFall2023**
+- Enter zyBook code:  **BRADLEYCS321SadatFall2023**
     
-    \item Subscribe
+- Subscribe
 
 Make sure to select the correct *class section* when you subscribe. A subscription is $58. Students may begin subscribing on Aug 07, 2023 and the cutoff to subscribe is Nov 29, 2023. Subscriptions will last until Dec 27, 2023. However, students can print and save (PDF) their zyBook for future reference. 
 
