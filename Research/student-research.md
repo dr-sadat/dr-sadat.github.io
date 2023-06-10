@@ -4,6 +4,7 @@ If you are interested in working on a research idea under my supervision, you ar
 - Transcripts
 - Published articles (if any)
 - A brief description of your *specific* area of interest 
+- A brief description of your skillset relevant to the research idea/project 
 
 My email address: msadat@bradley.edu 
 
