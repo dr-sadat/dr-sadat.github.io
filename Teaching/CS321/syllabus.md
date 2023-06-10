@@ -27,10 +27,10 @@ Make sure to select the correct *class section* when you subscribe. A subscripti
 - This course requires the use of LockDown Browser for all exams. Installation guide is available on Canvas.
 
 
-
+<br>
 ## Grading
 
-### Grade Components
+**Grade Components:**
 
 | Attendance | Participation Activities | Homework  |  Quizzes |  Midterm Exam |  Final Exam  |
 | ---   | ---  | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Make sure to select the correct *class section* when you subscribe. A subscripti
  
 **Late submission policy:** Late assignment submissions will be penalized at the rate of 10% (of total points) per day.
 
-
+<br>
 ## Topics
  - Introduction and Basics
    - Class Introduction (syllabus, policies, and projects)
