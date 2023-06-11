@@ -1,3 +1,5 @@
+# Research Opportunities  
+
 If you are interested in working on a research idea under my supervision, you are encouraged to email me with the following information: 
 
 - CV
