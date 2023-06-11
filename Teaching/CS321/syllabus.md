@@ -39,7 +39,7 @@ Make sure to select the correct *class section* when you subscribe. A subscripti
 
 <br>
 
-**Make-up policy:** There will be NO make-up tests without a valid and documented reason. Unexcused absence for quiz, midterm, or the final exam will result in a grade of zero.  
+**Make-up policy:** There will be NO make-up tests without a valid and documented reason. Unexcused absences for the quizzes, midterm, or final exam will result in a grade of zero.  
  
 **Late submission policy:** Late assignment submissions will be penalized at the rate of 10% (of total points) per day.
 
