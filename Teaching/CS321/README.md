@@ -10,8 +10,7 @@ Students will work on programming projects (C based) and get hands-on experience
 
 
 ## Office Hours (Fall 2023) 
-- Mon: 10:30 - 12:00  (BR 289)
-- Wed: 10:30 - 12:00  (BR 289)
+- Mon & Wed: 10:30 - 12:00  (BR 289)
 - Or make an appointment (Email: msadat@bradley.edu)
 
 
