@@ -10,11 +10,11 @@ Please check Canvas for the full syllabus for the specific class/section you reg
 
 We will use a zyBook, which offers highly interactive content, animations, activities, challenge questions, and videos. Here are the instructions to access the book:
 
-- Sign in or create an account at [https://learn.zybooks.com](https://learn.zybooks.com)
+1. Sign in or create an account at [https://learn.zybooks.com](https://learn.zybooks.com)
     
-- Enter zyBook code:  **BRADLEYCS321SadatFall2023**
+2. Enter zyBook code:  **BRADLEYCS321SadatFall2023**
     
-- Subscribe
+3. Subscribe
 
 Make sure to select the correct *class section* when you subscribe. A subscription is $58. Students may begin subscribing on Aug 07, 2023 and the cutoff to subscribe is Nov 29, 2023. Subscriptions will last until Dec 27, 2023. However, students can print and save (PDF) their zyBook for future reference. 
 
