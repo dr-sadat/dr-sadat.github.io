@@ -3,7 +3,6 @@ Assistant Professor
 Department of Computer Science & Information Systems (CS&IS) 
 Bradley University  
 Peoria, IL 61625, USA  
-[https://bradley.edu/MNSadat](https://bradley.edu/MNSadat)
 
 > Email: msadat@bradley.edu  
 > Office: Bradley Hall 289  
@@ -33,3 +32,4 @@ Peoria, IL 61625, USA
 
 ##### [Info for Prospective Students](./Research/student-research.md)
 
+Bradley Faculty Webpage: [https://bradley.edu/MNSadat](https://bradley.edu/MNSadat)
