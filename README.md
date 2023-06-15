@@ -4,7 +4,7 @@ Department of Computer Science & Information Systems (CS&IS)
 Bradley University  
 Peoria, IL 61625, USA  
 
-> Email: msadat@bradley.edu  
+> :email: Email: msadat@bradley.edu  
 > Office: Bradley Hall 289  
 > Fall '23 office hours: M W, 10:30 - 12:00   
 
