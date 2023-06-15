@@ -1,5 +1,7 @@
 # Current Research Projects 
 
+[Research Projects](./README.md) &nbsp;&nbsp;&nbsp; [Prospective Students](./student-research.md)
+
 ## Accurate QoE Models for Emerging Video Applications
 Investigate new ways consumers access and interact with video content in modern networks and develop novel QoE prediction frameworks.
 
