@@ -32,4 +32,6 @@ Peoria, IL 61625, USA
 
 ##### [Info for Prospective Students](./Research/student-research.md)
 
+---
+
 Bradley Faculty Webpage: [https://bradley.edu/MNSadat](https://bradley.edu/MNSadat)
