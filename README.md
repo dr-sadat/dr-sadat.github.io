@@ -1,6 +1,6 @@
 # Dr. Mohammad N. Sadat
 Assistant Professor  
-Department of Computer Science & Information Systems (CS&IS) 
+Department of Computer Science & Information Systems (CS&IS)  
 Bradley University  
 Peoria, IL 61625, USA  
 
