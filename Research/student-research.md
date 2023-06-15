@@ -1,5 +1,7 @@
 # Student Research Opportunities  
 
+[Research Projects](./README.md) &nbsp;&nbsp;&nbsp; [Prospective Students](./student-research.md) 
+
 If you are interested in working on a research idea under my supervision, you are encouraged to email me with the following information: 
 
 - CV
