@@ -34,4 +34,4 @@ Bradley University
 
 ---
 
-Bradley faculty webpage: [https://bradley.edu/MNSadat](https://bradley.edu/MNSadat)
+[YouTube Channel](https://www.youtube.com/@ProfSadat) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Bradley Webpage](https://bradley.edu/MNSadat)
