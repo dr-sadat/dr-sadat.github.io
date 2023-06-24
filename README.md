@@ -24,14 +24,15 @@ Bradley University
 
 ## Research 
 
-#### Current Projects 
+#### [Current Projects](./Research/README.md) 
 
 - Accurate QoE Models for Emerging Video Applications [*(details)*](./Research/README.md#accurate-qoe-models-for-emerging-video-applications) 
 - Information-Driven Video Analytics [*(details)*](./Research/README.md)
 - Cooperative Perception for Autonomous Vehicles [*(details)*](./Research/README.md)
 
-##### [Info for Prospective Students](./Research/student-research.md)
+#### [Info for Prospective Students](./Research/student-research.md)
 
+---
 ---
 
 [YouTube Channel](https://www.youtube.com/@ProfSadat) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Bradley Webpage](https://bradley.edu/MNSadat)
