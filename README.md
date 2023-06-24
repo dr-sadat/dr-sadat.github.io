@@ -34,4 +34,4 @@ Bradley University
 
 
 ---
-[YouTube Channel](https://www.youtube.com/@ProfSadat) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Bradley Webpage](https://bradley.edu/MNSadat)
+[YouTube Channel](https://www.youtube.com/@ProfSadat) &nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=h8HijNwAAAAJ)  &nbsp;&nbsp;&nbsp; [Bradley Webpage](https://bradley.edu/MNSadat) &nbsp;&nbsp;&nbsp; [Goodreads](https://www.goodreads.com/nsadat) &nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/nazmus-sadat/)
