@@ -10,10 +10,10 @@ Students will work on programming projects (C based) and get hands-on experience
 
 
 ## Office Hours (Fall 2023) 
-- Mon & Wed: 10:30 - 12:00  (BR 289)
+- Tue & Thu: 11:45 AM - 1:15 PM  (BR 289)
 - Or make an appointment (Email: msadat@bradley.edu)
 
 
 ## Background Knowledge 
 - Although not required, some experience with the Linux OS will be useful. The virtual machine used in this class is based on Ubuntu 16.04. 
-- The programming projects are based on C. Proficiency in C is not required, but basic knowledge in C is or a similar programming language is essential. 
+- The programming projects are based on C. While proficiency in C is not required, basic knowledge of C or a similar programming language is essential.
