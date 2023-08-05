@@ -9,7 +9,7 @@ Labs will cover MongoDB (for distributed databases/NoSQL) and Spark (for Big Dat
 
 
 ## Office Hours (Fall 2023) 
-- Mon & Wed: 10:30 - 12:00  (BR 289)
+- Tue & Thu: 11:45 AM - 1:15 PM  (BR 289)
 - Or make an appointment (Email: msadat@bradley.edu)
 
 
