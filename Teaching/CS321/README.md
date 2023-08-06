@@ -15,5 +15,5 @@ Students will work on programming projects (C based) and get hands-on experience
 
 
 ## Background Knowledge 
-- Although not required, some experience with the Linux OS will be useful. The virtual machine used in this class is based on Ubuntu 16.04. 
+- Although not required, some experience with the Linux OS will be useful. The virtual machine used in this class is based on version 4.4 of the Linux kernel. 
 - The programming projects are based on C. While proficiency in C is not required, basic knowledge of C or a similar programming language is essential.
