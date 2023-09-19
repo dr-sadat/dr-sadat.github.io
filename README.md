@@ -5,11 +5,8 @@ Bradley University
 1501 W Bradley Ave, Peoria, IL 61625, USA  
 Email: msadat@bradley.edu   
 Office: Bradley Hall 289  
-<ul>
-  <li> [Click here to make an appointment](https://calendar.app.google/yznNMnPBQdKsdSDm6) </li>
-</ul>
 
-**[Click here](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to make an appointment for a virtual or in-person meeting. 
+> **[Click here](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to make an appointment for a virtual or in-person meeting. 
 
 <br>
 
