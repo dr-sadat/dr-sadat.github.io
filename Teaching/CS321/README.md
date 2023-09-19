@@ -1,6 +1,6 @@
 # CS 321: Operating Systems
 
-[Overview](./README.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Schedule](./schedule.md)
+[Overview](./README.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  
 
 ## Learning Objectives
 
