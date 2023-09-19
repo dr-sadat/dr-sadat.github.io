@@ -6,7 +6,7 @@ Bradley University
 
 >Email: msadat@bradley.edu   
 >Office: Bradley Hall 289  
->Fall '23 office hours: T T, 11:45 - 1:15   
+>[Click here to make an appointment](https://calendar.app.google/yznNMnPBQdKsdSDm6)
 
 <br>
 
