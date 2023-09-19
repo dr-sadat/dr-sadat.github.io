@@ -9,7 +9,7 @@ Office: Bradley Hall 289
   <li> [Click here to make an appointment](https://calendar.app.google/yznNMnPBQdKsdSDm6) </li>
 </ul>
 
-Make an **[appointment](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to meet virtually or in person. 
+**[Click here](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to make an appointment for a virtual or in-person meeting. 
 
 <br>
 
