@@ -30,7 +30,7 @@ Office: Bradley Hall 289
 - Information-Driven Video Analytics [*(details)*](./Research/README.md)
 - Cooperative Perception for Autonomous Vehicles [*(details)*](./Research/README.md)
 
-:pushpin: #### [Info for Prospective Students](./Research/student-research.md)
+:pushpin: [Info for Prospective Students](./Research/student-research.md)
 
 
 ---
