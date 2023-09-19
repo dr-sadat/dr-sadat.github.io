@@ -6,7 +6,10 @@ Bradley University
 
 Email: msadat@bradley.edu   
 Office: Bradley Hall 289  
-[Click here to make an appointment](https://calendar.app.google/yznNMnPBQdKsdSDm6)
+<ul>
+  <li> [Click here to make an appointment](https://calendar.app.google/yznNMnPBQdKsdSDm6) </li>
+</ul>
+
 
 <br>
 
