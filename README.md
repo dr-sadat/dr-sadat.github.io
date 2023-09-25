@@ -6,7 +6,7 @@ Bradley University
 Email: msadat@bradley.edu   
 Office: Bradley Hall 289  
 
-🕒 **[Click here](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to make an appointment for a virtual or in-person meeting. 
+⏰ **[Click here](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to make an appointment for a virtual or in-person meeting. 
 
 <br>
 
@@ -31,9 +31,9 @@ Office: Bradley Hall 289
 - Cooperative Perception for Autonomous Vehicles [*(details)*](./Research/README.md)
 
 
-#### List of Publications: 📖 [Google Scholar](https://scholar.google.com/citations?hl=en&user=h8HijNwAAAAJ)
+#### List of Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=h8HijNwAAAAJ)
 
-🏢 [Information for Prospective Students](./Research/student-research.md)
+🏫 [Information for Prospective Students](./Research/student-research.md)
 
 
 ---
