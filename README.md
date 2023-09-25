@@ -31,7 +31,7 @@ Office: Bradley Hall 289
 - Cooperative Perception for Autonomous Vehicles [*(details)*](./Research/README.md)
 
 📖 [Google Scholar](https://scholar.google.com/citations?hl=en&user=h8HijNwAAAAJ)
-   [Information for Prospective Students](./Research/student-research.md)
+🏢 [Information for Prospective Students](./Research/student-research.md)
 
 
 ---
