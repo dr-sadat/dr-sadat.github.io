@@ -30,7 +30,9 @@ Office: Bradley Hall 289
 - Information-Driven Video Analytics [*(details)*](./Research/README.md)
 - Cooperative Perception for Autonomous Vehicles [*(details)*](./Research/README.md)
 
-📖 [Google Scholar](https://scholar.google.com/citations?hl=en&user=h8HijNwAAAAJ)
+
+#### List of Publications: 📖 [Google Scholar](https://scholar.google.com/citations?hl=en&user=h8HijNwAAAAJ)
+
 🏢 [Information for Prospective Students](./Research/student-research.md)
 
 
