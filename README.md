@@ -6,7 +6,7 @@ Bradley University
 Email: msadat@bradley.edu   
 Office: Bradley Hall 289  
 
--- **[Click here](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to make an appointment for a virtual or in-person meeting. 
+- **[Click here](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to make an appointment for a virtual or in-person meeting. 
 
 <br>
 
@@ -30,7 +30,7 @@ Office: Bradley Hall 289
 - Information-Driven Video Analytics [*(details)*](./Research/README.md)
 - Cooperative Perception for Autonomous Vehicles [*(details)*](./Research/README.md)
 
-:pushpin: [Information for Prospective Students](./Research/student-research.md)
+ [Information for Prospective Students](./Research/student-research.md)
 
 
 ---
