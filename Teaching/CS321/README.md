@@ -4,14 +4,9 @@
 
 ## Learning Objectives
 
-In this course, students will study the fundamentals of operating systems concepts, design, and implementation. Topics include operating system components and structures, process and thread models, mutual exclusion and synchronization, scheduling algorithms, memory management, I/O controls, file systems, and security.
+CS 321 covers the fundamentals of operating systems concepts, design, and implementation. Topics include operating system components and structures, process and thread models, mutual exclusion and synchronization, scheduling algorithms, memory management, I/O controls, file systems, and security.
 
-Students will work on programming projects (C based) and get hands-on experience in Linux kernel. 
-
-
-## Office Hours (Fall 2023) 
-- Tue & Thu: 11:45 AM - 1:15 PM  (BR 289)
-- Or make an appointment (Email: msadat@bradley.edu)
+Students will work on programming projects (C-based) and get hands-on experience with the Linux kernel. 
 
 
 ## Background Knowledge 
