@@ -8,10 +8,5 @@ In this course, students will learn to design and build large-scale distributed 
 Labs will cover MongoDB (for distributed databases/NoSQL) and Spark (for Big Data). 
 
 
-## Office Hours (Fall 2023) 
-- Tue & Thu: 11:45 AM - 1:15 PM  (BR 289)
-- Or make an appointment (Email: msadat@bradley.edu)
-
-
 ## Background Knowledge 
 - Although not required, some experience with SQL and Python will be helpful. 
