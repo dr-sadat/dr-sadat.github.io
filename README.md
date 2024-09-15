@@ -1,26 +1,23 @@
-# Dr. Mohammad N. Sadat
+# Dr. Nazmus Sadat
 Assistant Professor  
-Department of Computer Science & Information Systems (CS&IS)  
-Bradley University  
-1501 W Bradley Ave, Peoria, IL 61625, USA  
-Email: msadat@bradley.edu   
-Office: Bradley Hall 289  
+School of Computing & Analytics 
+Northern Kentucky University  
+Highland Heights, KY, USA  
+Email: sadatm1@nku.edu
+Office: Griffin Hall 426  
 
-⏰ **[Click here](https://calendar.app.google/yznNMnPBQdKsdSDm6)** to make an appointment for a virtual or in-person meeting. 
+⏰ **[Click here](https://calendar.app.google/)** to make an appointment for a virtual or in-person meeting. 
 
 <br>
 
 
 ## Teaching
 
-#### Fall 2023
-- [CS 321 - Operating Systems](./Teaching/CS321/)
-- [CS 472/572 - Distributed Databases and Big Data](./Teaching/CS472-572/) 
+#### Fall 2024
+- [CSC 482/582 - Computer Security](./Teaching/)
+- [MCY 602 - Network Security](./Teaching/) 
 
 
-#### Spring 2024
-- [CS 330 - Net-Centric Computing](./Teaching/CS330/) 
-- [CIS 495/595 - Software and Web Applications Security](./Teaching/CIS495-595/) 
 
 ## Research 
 
@@ -37,4 +34,4 @@ Office: Bradley Hall 289
 
 
 ---
-[YouTube Channel](https://www.youtube.com/@ProfSadat) &nbsp;&nbsp;&nbsp; [Bradley Webpage](https://bradley.edu/MNSadat) &nbsp;&nbsp;&nbsp; [Goodreads](https://www.goodreads.com/nsadat) &nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/nazmus-sadat/)
+[YouTube Channel](https://www.youtube.com/@ProfSadat) &nbsp;&nbsp;&nbsp; [Goodreads](https://www.goodreads.com/nsadat) &nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/nazmus-sadat/)
