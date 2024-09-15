@@ -12,5 +12,5 @@ If you are interested in working on a research idea under my supervision, you ar
 
 Emails without these required information may not receive responses.
 
-My email address: msadat@bradley.edu 
+My email address: sadatm1@nku.edu
 
