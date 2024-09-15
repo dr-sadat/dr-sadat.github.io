@@ -1,6 +1,6 @@
 # Dr. Nazmus Sadat
-Assistant Professor  
-School of Computing & Analytics 
+Assistant Professor (Cybersecurity) 
+School of Computing & Analytics
 Northern Kentucky University  
 Highland Heights, KY, USA  
 Email: sadatm1@nku.edu
