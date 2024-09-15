@@ -23,6 +23,7 @@ Office: Griffin Hall 426
 
 #### Current Projects 
 
+- Application of Large Language Models 
 - Accurate QoE Models for Emerging Video Applications [*(details)*](./Research/README.md#accurate-qoe-models-for-emerging-video-applications) 
 - Information-Driven Video Analytics [*(details)*](./Research/README.md)
 - Cooperative Perception for Autonomous Vehicles [*(details)*](./Research/README.md)
